@@ -5,14 +5,16 @@
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
-	"prefix": "•",
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "62857028124149",
 	"ownerNumberr": "62857028124149",
 	"cr": "@irul.mp4",
 	"ownername": "Yo Ndak Tau Kok Tanya Saya",
-	"botname":"▒▓█►─═ 𝙕𝙀𝙍𝙊 𝘽𝙊𝙏 ═─◄█▓▒",
+	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
 	"thumb":"condok.jpg",
 	"fakethumb":"condok.jpg", 
-	"fake": " 「  ░▒▓█►─═ 𝙕𝙀𝙍𝙊 𝘽𝙊𝙏 ═─◄█▓▒░  」\nCreated By @irul.mp4"
+	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @irul.mp4"
 }
