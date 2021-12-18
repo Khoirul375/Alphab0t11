@@ -4,17 +4,15 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": true,
-	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"anticall": false,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "62857028124149",
 	"ownerNumberr": "62857028124149",
-	"cr": "@irul.mp4",
-	"ownername": "Yo Ndak Tau Kok Tanya Saya",
+	"cr": "@ZeeoneOfc",
+	"ownername": "ZeeoneOfc",
 	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
-	"thumb":"condok.jpg",
-	"fakethumb":"condok.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @irul.mp4"
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
 }
